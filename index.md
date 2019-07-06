@@ -1,4 +1,4 @@
-![bmhv-vorticity](vortZ-xlimiting.gif)
+![bmhv-vorticity](https://github.com/mc08662/mc08662.github.io/blob/master/vortZ-xlimiting.gif)
 
 I am a Mechanical Engineer specialising in Computational Fluid Dynamics.
 Currently working towards a PhD in [CITY, University of London](https://www.city.ac.uk/).
