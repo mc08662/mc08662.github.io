@@ -14,24 +14,6 @@ In the past almost 4 years, I have been working in _CITY_, as part of an europea
 
 The tool follows the immersed boundary method, is generic and can be used in various applications, compressible or incompressible, turbulent or laminar, multi- or single-phase flows. This approach is ideal for modelling solids of complicated geometry or undergoing large displacement or deformation, avoiding the cumbersome mesh generation.
 
-### Publications
-
-The work throughout the PhD studentship resulted in few conference participations and journal paper publications.
-
-**Peer-Reviewed Journal Publications**
-
-- Stavropoulos-Vasilakis E., Malgarinos I., Koukouvinis P. and Gavaises M., _A direct forcing Immersed Boundary Method for Cavitating Flows_, _(In preparation)_
-
-- Li Q., Stavropoulos-Vasilakis E., Koukouvinis P., Gavaises M. and Bruecker H. C. , March 2019, _Micro-pillar wall shear-stress measurements in the aortic arch with CFD-assisted calibration_, Journal of the Royal Society Interface, _(Submitted, awaiting editorial decision)_
-
-- Stavropoulos-Vasilakis E., Kyriazis N., Koukouvinis P., Farhat M. and Gavaises M., 2019, [_Cavitation induction by projectile impacting on a water jet_](https://doi.org/10.1016/j.ijmultiphaseflow.2019.03.001), International Journal of Multiphase Flow, 114, pp.128-139
-
-**Conferences**
-
-- Stavropoulos Vasilakis E., Kyriazis N., Koukouvinis P., Farhat M. and Gavaises M., 2018, [_Cavitation Induction by Projectile Impacting on a Water Jet_](http://ebooks.asmedigitalcollection.asme.org/content.aspx?bookid=2565&sectionid=206551373), In Proceedings of the 10th International Symposium on Cavitation (CAV2018), ASME Press
-
-- Participated in poster exhibition at IICR 4rth, 5th and 6th Cavitation Workshop ([2016](http://iicr2016.net/), [2017](http://iicr2017.net/), [2019](http://iicr2019.net/) respectively).
-
 ### Academic Background
 
 I studied Mechanical Engineering in National Technical University of Athens ([NTUA](https://www.ntua.gr)).
@@ -51,3 +33,41 @@ My main scientific interest is dynamics, from both a mathematical and physical p
 Although my current research is focused on fluid dynamics and computational fluid dynamics, throughout my studies I had the opportunity to get familiar with applications of aero-elasticity and fluid-structure interaction, optimization, system control and bio-engineering signal modelling.
 
 Attracted by numerical modelling and analysis, I have developed programming skills and worked with various engineering-oriented software packages.
+
+### Publications
+
+The work throughout the PhD studentship resulted in few conference participations and journal paper publications.
+
+**Peer-Reviewed Journal Publications**
+
+- Stavropoulos-Vasilakis E., Malgarinos I., Koukouvinis P. and Gavaises M., _A direct forcing Immersed Boundary Method for Cavitating Flows_, _(In preparation)_
+
+- Li Q., Stavropoulos-Vasilakis E., Koukouvinis P., Gavaises M. and Bruecker H. C. , March 2019, _Micro-pillar wall shear-stress measurements in the aortic arch with CFD-assisted calibration_, Journal of the Royal Society Interface, _(Submitted, awaiting editorial decision)_
+
+- Stavropoulos-Vasilakis E., Kyriazis N., Koukouvinis P., Farhat M. and Gavaises M., 2019, [_Cavitation induction by projectile impacting on a water jet_](https://doi.org/10.1016/j.ijmultiphaseflow.2019.03.001), International Journal of Multiphase Flow, 114, pp.128-139
+
+**Conferences**
+
+- Stavropoulos Vasilakis E., Kyriazis N., Koukouvinis P., Farhat M. and Gavaises M., 2018, [_Cavitation Induction by Projectile Impacting on a Water Jet_](http://ebooks.asmedigitalcollection.asme.org/content.aspx?bookid=2565&sectionid=206551373), In Proceedings of the 10th International Symposium on Cavitation (CAV2018), ASME Press
+
+- Participated in poster exhibition at IICR 4rth, 5th and 6th Cavitation Workshop ([2016](http://iicr2016.net/), [2017](http://iicr2017.net/), [2019](http://iicr2019.net/) respectively).
+
+You can find me on [ResearchGate](www.researchgate.net/profile/Evangelos\_Stavropoulos\_Vasilakis) or follow my publications on [Google Scholar](https://scholar.google.com/citations?user=pOK57zYAAAAJ&hl=en).
+
+### Workshops & Conferences
+
+Throughout my PhD studentship, I have attended or participated in few workshops and conferences:
+
+- 9<sup>th</sup> International Symposium on Cavitation [_CAV 2015_](cav2015.epfl.ch), Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+
+- 4<sup>rth</sup> Cavitation Workshop [_IICR 2016_](iicr2016.net), International institute for Cavitation Research, CIHEAM, Greece
+
+- PDE Software Frameworks [_PDESoft 2016_](https://warwick.ac.uk/fac/sci/maths/research/events/2015-16/nonsymposium/pde/), Mathematics Institute, Warwick University, United Kingdom
+
+- 5<sup>th</sup> Cavitation Workshop [_IICR 2017_](iicr2017.net), International institute for Cavitation Research, CIHEAM, Greece
+
+- [_SIG Drop Dynamics_](fluids.ac.uk/sig/DropDynamics), Meeting Dec. 2017, UK Fluids Network EPSRC, Wadham College, University of Oxford
+
+- 10<sup>th</sup> International Symposium on Cavitation [_CAV 2018_](cav2018.jhu.edu), Johns Hopkins University, Baltimore, Maryland USA
+
+- 6<sup>th</sup> Cavitation Workshop [_IICR 2019_](iicr2019.net), International institute for Cavitation Research, CIHEAM, Greece
