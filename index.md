@@ -6,7 +6,7 @@ Currently working towards a PhD in [CITY, University of London](https://www.city
 ### Research
 The subject of my PhD are cavitating flows with potential bio-engineering applications.
 
-Cavitation is the phenomenon of vaporization of liquids, not through heating (boiling), but through acceleration. A ship propeller can accelerate the ambient water that abruptly and severely that the static pressure falls bellow the saturation value and the water turns to vapour. The induced vapour cavities turn back to liquid water after a short period, often following an implosion, which could damage mechanical structure and equipment.
+Cavitation is the phenomenon of vaporization of liquids, not through heating (boiling), but through acceleration. A ship propeller can accelerate the ambient water so abruptly and severely that the static pressure falls bellow the saturation value and the water turns into vapour. The induced vapour cavities turn back to liquid water after a short period, often following an implosion, which could damage mechanical structure and equipment.
 
 The work is motivated by the potential of cavitation induction in blood flow through a prosthetic mechanical heart valve, reported by some experiments in the past.
 
@@ -25,7 +25,7 @@ My diploma thesis was a study of a truss structure for a deformable wind turbine
 
 From October 2015 to October 2018, I was employed by CITY, University of London, as a Research Fellow in framework of [CaFE ITN project](http://cafe-project.eu/). _CaFE_ was an interdisciplinary project that investigated cavitation erosion. The work done then was part of my PhD and regarded mainly code development on [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-2.4.x).
 
-In the past, I completed an internship in [ONERA](https://www.onera.fr) - The French Aerospace Laboratory, at the Applied Aerodynamics Department. There I worked on the development of a hybridization tool, which would merge numerical and experimental data, to benefit from the detail of numerical computations and the precision of aerodynamic experiments and provide more accurate pressure field information. The internship in _ONERA_ lasted from October 2013 to February 2014.
+During my studies, I completed an internship in [ONERA](https://www.onera.fr) - The French Aerospace Laboratory, at the Applied Aerodynamics Department. There I worked on the development of a hybridization tool, which would merge numerical and experimental data, to benefit from the detail of numerical computations and the precision of aerodynamic experiments and provide more accurate pressure field information. The internship in _ONERA_ lasted from October 2013 to February 2014.
 
 ### Interests and Skills
 
