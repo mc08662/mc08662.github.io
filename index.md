@@ -58,16 +58,16 @@ You can find me on [ResearchGate](www.researchgate.net/profile/Evangelos\_Stavro
 
 Throughout my PhD studentship, I have attended or participated in few workshops and conferences:
 
-- 9<sup>th</sup> International Symposium on Cavitation [_CAV 2015_](cav2015.epfl.ch), Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
+- 9<sup>th</sup> International Symposium on Cavitation [_CAV 2015_](https://archiveweb.epfl.ch/cav2015.epfl.ch/), Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
-- 4<sup>rth</sup> Cavitation Workshop [_IICR 2016_](iicr2016.net), International institute for Cavitation Research, CIHEAM, Greece
+- 4<sup>rth</sup> Cavitation Workshop [_IICR 2016_](http://iicr2016.net/), International institute for Cavitation Research, CIHEAM, Greece
 
 - PDE Software Frameworks [_PDESoft 2016_](https://warwick.ac.uk/fac/sci/maths/research/events/2015-16/nonsymposium/pde/), Mathematics Institute, Warwick University, United Kingdom
 
-- 5<sup>th</sup> Cavitation Workshop [_IICR 2017_](iicr2017.net), International institute for Cavitation Research, CIHEAM, Greece
+- 5<sup>th</sup> Cavitation Workshop [_IICR 2017_](http://iicr2017.net), International institute for Cavitation Research, CIHEAM, Greece
 
-- [_SIG Drop Dynamics_](fluids.ac.uk/sig/DropDynamics), Meeting Dec. 2017, UK Fluids Network EPSRC, Wadham College, University of Oxford
+- [_SIG Drop Dynamics_](https://fluids.ac.uk/sig/DropDynamics), Meeting Dec. 2017, UK Fluids Network EPSRC, Wadham College, University of Oxford
 
-- 10<sup>th</sup> International Symposium on Cavitation [_CAV 2018_](cav2018.jhu.edu), Johns Hopkins University, Baltimore, Maryland USA
+- 10<sup>th</sup> International Symposium on Cavitation [_CAV 2018_](https://cav2018.jhu.edu/), Johns Hopkins University, Baltimore, Maryland USA
 
-- 6<sup>th</sup> Cavitation Workshop [_IICR 2019_](iicr2019.net), International institute for Cavitation Research, CIHEAM, Greece
+- 6<sup>th</sup> Cavitation Workshop [_IICR 2019_](http://iicr2019.net), International institute for Cavitation Research, CIHEAM, Greece
