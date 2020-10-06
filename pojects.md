@@ -1,0 +1,38 @@
+## Projects
+
+A presentation of the projects I have worked on follows.
+The problems I have dealt are numerous and range from high-Mach compressible aeronautical flows, to highly turbulent low-Mach multiphase industrial flows and low-Reynolds incompressible pulsatile biological flows. Moreover, fluid-solid interaction and turbulence treatment, primarily through RANS computations and secondarily through DNS or LES, were also integral parts of my doctoral research at CITY, University of London.
+
+#### Immersed Boundary Method
+at _CITY, University of London_
+An Immersed Boundary Method (IBM), a technique for modelling solid boundaries in the context of Computational Fluid Dynamics, was developed for cavitating and biological flows.
+Modelling boundaries instead of meshing them, results in a far simpler computational domain and better quality computational grid. Problems with complex topologies or moving boundaries can be simulated in a simple Cartesian grid. Fluid-Structure Interaction problems with large deformations can especially benefit by IB techniques. The representation of the solid boundary take place with alternations in the numerical stencil of the discretised of the equations. Three approaches exist: direct forcing, ghost cell and cut cell; the direct forcing is followed, which essentially adds a volumetric source term in the momentum equation.
+
+The aim was to create a tool suitable for a broad range of applications and flow regimes, from turbulent compressible cavitating industrial flows, to transitional incompressible biological flows. The method can be used for the simulation of needle movement in high pressure flows of Diesel injector nozzles, of rotating marine propellers, operating Mechanical Heart Valves in pulsatile blood flow or targeted drug delivery.
+
+The method was developed within OpenFOAM, as a standalone dynamic library, achieving portability and extensibility. It can be integrated into different solution algorithms for different flow regimes, compiled as separate solvers within OpenFOAM. It has been validated for incompressible and cavitating solvers and tested for compressible and VOF solvers. It includes turbulence treatment through modified RANS models and accounts for flow induced motion.
+
+<p align="center">
+<img alt="free falling cylinder" src="waterIcofallCyl05-w1ka1-mnml.gif" width="400">
+</p>
+
+#### High speed solid-to-liquid impact
+at _CITY, University of London_
+A investigation of cavitation and shockwave dynamics upon the impact of a high speed projectile on a water jet was performed. This study tries to quantify the observations of a relevant experiment, and offer detailed information on vapour formation, pressure and velocity fields. Rich phenomena of schockwaves and liquid-gas interface interactions ware captured, including anomalous reflection of pressure waves, shock induced interfacial instabilities, as well as high speed jetting. The unveiled physics are in agreement with theoretical investigations and previous related research, however provide unique insight in the cavitation structures, both in 3D as well as 2D set-ups, and  valuable quantitative information about the impact and shockwave dynamics in a fast-slow configuration. The findings are related to bio-medical as well as industrial applications.
+The experimental data were provided by collaborators in EPFL and the work resulted in publications in the [Int. Journal of Multiphase Flows](https://doi.org/10.1016/j.ijmultiphaseflow.2019.03.001) and at the 10<sup>th</sup> Int. Symposium on Cavitation [(CAV2018)](http://ebooks.asmedigitalcollection.asme.org/content.aspx?bookid=2565&sectionid=206551373) and a presentation during the 6<sup>th</sup> Cavitation Workshop [IICR 2019](http://iicr2019.net).
+
+<p align="center">
+<img alt="impact pressure waves" src="logpGrad_blended-2.png" width="400">
+</p>
+
+#### Wall shear stress on model aorta
+at _CITY, University of London_
+This project consists of numerical simulations of incompressible pulsatile flow through a model aorta to study vorticity structures and shear stress on the walls, to assist the calibration of a novel wall shear stress measurement technique, tailored for aortic flows. The flow as in transitional regime with the Reynolds number ranging from few hundreds to few thousands, and therefore the turbulence was not fully developed, prohibiting the use of RANS approach. This project was carried out in collaboration with an experimental team of CITY, who developed the measurement technique, and resulted in the composition of a scientific article, which is now in process of being submitted for publication.
+
+#### Hybridization of experimental and computational flow data
+at _ONERA, The French Aerospace Lab_
+A method has been developed, which would merge numerical and experimental data. The aim was to benefit from the amount of information provided by numerical simulations on one hand, and from the accuracy of (limited) experimental measurements, on the other. Measurement campaigns on model aeroplanes in wind tunnels, are always considered more trustworthy than CFD. Therefore, the method ultimately tends to correct the computational data in order to provide a prediction of aeroplane's performance closer to "reality".
+
+#### Supporting truss structure of WT blade
+at _NTUA, National Technical University of Athens_
+The project consists of an investigation of the possibility of replacing the default spar-beam support for the Wind Turbine blades, by a truss. The background idea was the potential use of such a truss structure in active control of the coupled fluid-structural system. The aim of the project was to define the procedure of determining the "equivalent beam" of the truss, used in aeroelastic simulations. The problem was approached by an inverse-design point of view and by well known means of optimization, in order to find the right material distribution along the equivalent beam and then define needed truss.
