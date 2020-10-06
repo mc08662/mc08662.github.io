@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Projects"
 permalink: /projects/
 ---
@@ -19,7 +18,7 @@ The aim was to create a tool suitable for a broad range of applications and flow
 The method was developed within OpenFOAM, as a standalone dynamic library, achieving portability and extensibility. It can be integrated into different solution algorithms for different flow regimes, compiled as separate solvers within OpenFOAM. It has been validated for incompressible and cavitating solvers and tested for compressible and VOF solvers. It includes turbulence treatment through modified RANS models and accounts for flow induced motion.
 
 <p align="center">
-<img alt="free falling cylinder" src="waterIcofallCyl05-w1ka1-mnml.gif" width="400">
+<img alt="free falling cylinder" src="https://mc08662.github.io/waterIcofallCyl05-w1ka1-mnml.gif" width="400">
 </p>
 
 #### High speed solid-to-liquid impact
@@ -28,7 +27,7 @@ A investigation of cavitation and shockwave dynamics upon the impact of a high s
 The experimental data were provided by collaborators in EPFL and the work resulted in publications in the [Int. Journal of Multiphase Flows](https://doi.org/10.1016/j.ijmultiphaseflow.2019.03.001) and at the 10<sup>th</sup> Int. Symposium on Cavitation [(CAV2018)](http://ebooks.asmedigitalcollection.asme.org/content.aspx?bookid=2565&sectionid=206551373) and a presentation during the 6<sup>th</sup> Cavitation Workshop [IICR 2019](http://iicr2019.net).
 
 <p align="center">
-<img alt="impact pressure waves" src="logpGrad_blended-2.png" width="400">
+<img alt="impact pressure waves" src="https://mc08662.github.io/logpGrad_blended-2.png" width="400">
 </p>
 
 #### Wall shear stress on model aorta
