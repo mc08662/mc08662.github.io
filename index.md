@@ -3,8 +3,8 @@
 I am a Mechanical Engineer specialised in Computational Fluid Dynamics.
 I recently received my PhD from the School of Mathematics, Computer Science and Engineering of [CITY, University of London](https://www.city.ac.uk/).
 
-| [Academic Background](#Academic-Background) | [Professional Career](#Professional-Career) | [Work Dissemination](#work-dissemination) |
-|:-------|:--------|:-------|
+| [Academic Background](#academic-background) | [Professional Career](#professional-career) | [Work Dissemination](#work-dissemination) |
+---
 
 ## Academic Background
 ### Research
