@@ -14,6 +14,8 @@ Although my doctorate's research was related on fluid dynamics and relevant comp
 Moreover, my attraction to numerical methods led me to develop robust programming skills and work on different scientific programming languages.
 I am also an open-source software enthusiast.
 
+You can read more about my path so far bellow and find out more about the projects I was involved in, on [a dedicated page](https://mc08662.github.io/projects/).
+
 | [Academic Background](#academic-background) | [Professional Career](#professional-career) | [Work Dissemination](#work-dissemination) |
 
 ## Academic Background
