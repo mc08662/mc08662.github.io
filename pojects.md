@@ -1,16 +1,16 @@
 layout: page
 title: "Projects"
-permalink: https://mc08662.github.io/projects
+permalink: /projects/
 
 ## Projects
 
 A presentation of the projects I have worked on follows.
 The problems I have dealt are numerous and range from high-Mach compressible aeronautical flows, to highly turbulent low-Mach multiphase industrial flows and low-Reynolds incompressible pulsatile biological flows. Moreover, fluid-solid interaction and turbulence treatment, primarily through RANS computations and secondarily through DNS or LES, were also integral parts of my doctoral research at CITY, University of London.
 
-#### Immersed Boundary Method
+#### Direct Forcing Immersed Boundary Method for OpenFOAM
 at _CITY, University of London_
 An Immersed Boundary Method (IBM), a technique for modelling solid boundaries in the context of Computational Fluid Dynamics, was developed for cavitating and biological flows.
-Modelling boundaries instead of meshing them, results in a far simpler computational domain and better quality computational grid. Problems with complex topologies or moving boundaries can be simulated in a simple Cartesian grid. Fluid-Structure Interaction problems with large deformations can especially benefit by IB techniques. The representation of the solid boundary take place with alternations in the numerical stencil of the discretised of the equations. Three approaches exist: direct forcing, ghost cell and cut cell; the direct forcing is followed, which essentially adds a volumetric source term in the momentum equation.
+Modelling boundaries instead of meshing them, results in a far simpler computational domain and better quality computational grid. Problems with complex topologies or moving boundaries can be simulated in a simple Cartesian grid. Fluid-Structure Interaction problems with large deformations can especially benefit by IB techniques. The representation of the solid boundary take place with alternations in the numerical stencil of the discretised of the equations. Three approaches exist: direct forcing, ghost cell and cut cell; the _direct forcing_ method was followed, which essentially adds a volumetric source term in the momentum equation.
 
 The aim was to create a tool suitable for a broad range of applications and flow regimes, from turbulent compressible cavitating industrial flows, to transitional incompressible biological flows. The method can be used for the simulation of needle movement in high pressure flows of Diesel injector nozzles, of rotating marine propellers, operating Mechanical Heart Valves in pulsatile blood flow or targeted drug delivery.
 
