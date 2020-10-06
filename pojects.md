@@ -1,3 +1,7 @@
+layout: page
+title: "Projects"
+permalink: https://mc08662.github.io/projects
+
 ## Projects
 
 A presentation of the projects I have worked on follows.
