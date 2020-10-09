@@ -69,7 +69,7 @@ The work throughout the PhD studentship resulted in few conference participation
 
 - Stavropoulos Vasilakis E., Kyriazis N., Koukouvinis P., Farhat M. and Gavaises M., 2018, [_Cavitation Induction by Projectile Impacting on a Water Jet_](http://ebooks.asmedigitalcollection.asme.org/content.aspx?bookid=2565&sectionid=206551373), In Proceedings of the 10<sup>th</sup> International Symposium on Cavitation (CAV2018), ASME Press
 
-- Participated in poster exhibition at IICR 4rth, 5<sup>th</sup> and <sup>6th</sup> Cavitation Workshop ([2016](http://iicr2016.net/), [2017](http://iicr2017.net/), [2019](http://iicr2019.net/) respectively).
+- Participated in poster exhibition at IICR 4<sup>rth</sup>, 5<sup>th</sup> and <sup>6th</sup> Cavitation Workshop ([2016](http://iicr2016.net/), [2017](http://iicr2017.net/), [2019](http://iicr2019.net/) respectively).
 
 You can find me on [ResearchGate](www.researchgate.net/profile/Evangelos\_Stavropoulos\_Vasilakis) or follow my publications on [Google Scholar](https://scholar.google.com/citations?user=pOK57zYAAAAJ&hl=en).
 
