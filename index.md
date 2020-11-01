@@ -55,11 +55,11 @@ The work throughout the PhD studentship resulted in few conference participation
 
 **Contributions in Books**
 
-- Stavropoulos-Vasilakis E., Kyriazis N., Koukouvinis P. and Gavaises M., _Review of Numerical Methodologies for Modeling Cavitation_, In: Cavitation and Bubble Dynamics, 2<sup>nd</sup> edition, Elsevier, _(Under Review)_
+- Stavropoulos-Vasilakis E., Kyriazis N., Jadidbonab H., Koukouvinis P. and Gavaises M., _Review of Numerical Methodologies for Modeling Cavitation_, In: Cavitation and Bubble Dynamics, 2<sup>nd</sup> edition, Elsevier, _(Under Review)_
 
 **Peer-Reviewed Journal Publications**
 
-- Stavropoulos-Vasilakis E., Malgarinos I., Koukouvinis P. and Gavaises M., _A direct forcing Immersed Boundary Method for Cavitating Flows_, _(Submitted to Int. J. for Numerical Methods of Fluids)_
+- Stavropoulos-Vasilakis E., Malgarinos I., Koukouvinis P. and Gavaises M., _A direct forcing Immersed Boundary Method for Cavitating Flows_, _(Submitted to Int. J. for Numerical Methods in Fluids)_
 
 - Li Q., Stavropoulos-Vasilakis E., Koukouvinis P., Gavaises M. and Bruecker H. C., _Micro-pillar wall shear-stress measurements in the aortic arch with CFD-assisted calibration_, _(In preparation)_
 

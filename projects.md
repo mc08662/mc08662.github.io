@@ -6,7 +6,7 @@ permalink: /projects/
 ## Projects
 
 A presentation of the projects I have worked on follows.
-The problems I have dealt are numerous and range from high-Mach compressible aeronautical flows, to highly turbulent low-Mach multiphase industrial flows and low-Reynolds incompressible pulsatile biological flows. Moreover, fluid-solid interaction and turbulence treatment, primarily through RANS computations and secondarily through DNS or LES, were also integral parts of my doctoral research at CITY, University of London.
+The problems I have dealt with are numerous and range from high-Mach compressible aeronautical flows, to highly turbulent low-Mach multiphase industrial flows and low-Reynolds incompressible pulsatile biological flows. Moreover, fluid-solid interaction and turbulence treatment, primarily through RANS computations and secondarily through DNS or LES, were also integral parts of my doctoral research at CITY, University of London.
 
 #### Direct Forcing Immersed Boundary Method for OpenFOAM
 at _CITY, University of London_, 2015-2020
