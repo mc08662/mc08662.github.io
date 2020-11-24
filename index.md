@@ -42,7 +42,7 @@ My diploma thesis was a study of a truss structure for a deformable wind turbine
 ## Professional Career
 ### Work Experience
 
-From October 2015 to October 2018, I was employed by CITY, University of London, as a Research Fellow in framework of [CaFE ITN project](http://cafe-project.eu/). _CaFE_ was an interdisciplinary project that investigated cavitation erosion. The work done then was part of my PhD and regarded mainly code development on [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-2.4.x).
+From October 2015 to October 2018, I was employed by CITY, University of London, as a Research Fellow in framework of [CaFE ITN project](https://cordis.europa.eu/project/id/642536). _CaFE_ was an interdisciplinary project that investigated cavitation erosion. The work done then was part of my PhD and regarded mainly code development on [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-2.4.x).
 
 During my studies, I completed an internship at [ONERA](https://www.onera.fr) - The French Aerospace Laboratory, at the Applied Aerodynamics Department. There I worked on the development of a hybridization tool, which would merge numerical and experimental data, to benefit from the detail of numerical computations and the precision of aerodynamic experiments and provide more accurate pressure field information. The internship in _ONERA_ lasted from October 2013 to February 2014.
 
@@ -69,7 +69,7 @@ The work throughout the PhD studentship resulted in few conference participation
 
 - Stavropoulos Vasilakis E., Kyriazis N., Koukouvinis P., Farhat M. and Gavaises M., 2018, [_Cavitation Induction by Projectile Impacting on a Water Jet_](http://ebooks.asmedigitalcollection.asme.org/content.aspx?bookid=2565&sectionid=206551373), In Proceedings of the 10<sup>th</sup> International Symposium on Cavitation (CAV2018), ASME Press
 
-- Participated in poster exhibition at IICR 4<sup>rth</sup>, 5<sup>th</sup> and <sup>6th</sup> Cavitation Workshop ([2016](http://iicr2016.net/), [2017](http://iicr2017.net/), [2019](http://iicr2019.net/) respectively).
+- Participated in poster exhibition at IICR 4<sup>rth</sup>, 5<sup>th</sup> and <sup>6th</sup> Cavitation Workshop (_2016_, [2017](http://iicr2017.net/), [2019](http://iicr2019.net/) respectively).
 
 You can find me on [ResearchGate](www.researchgate.net/profile/Evangelos\_Stavropoulos\_Vasilakis) or follow my publications on [Google Scholar](https://scholar.google.com/citations?user=pOK57zYAAAAJ&hl=en).
 
@@ -79,7 +79,7 @@ Throughout my PhD studentship, I have attended or participated in few workshops 
 
 - 9<sup>th</sup> International Symposium on Cavitation [_CAV 2015_](https://archiveweb.epfl.ch/cav2015.epfl.ch/), Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
-- 4<sup>rth</sup> Cavitation Workshop [_IICR 2016_](http://iicr2016.net/), International institute for Cavitation Research, CIHEAM, Greece
+- 4<sup>rth</sup> Cavitation Workshop _IICR 2016_, International institute for Cavitation Research, CIHEAM, Greece
 
 - PDE Software Frameworks [_PDESoft 2016_](https://warwick.ac.uk/fac/sci/maths/research/events/2015-16/nonsymposium/pde/), Mathematics Institute, Warwick University, United Kingdom
 

@@ -40,7 +40,7 @@ This project consists of numerical simulations of incompressible pulsatile flow 
 #### Website development
 at _CITY, University of London_, 2015-2018
 
-Apart from the research works, as a member of _CaFE ITN_,  I had taken on the responsibility of set up and maintenance of the project's website [cafe-project.eu](http://cafe-project.eu/) (the site now is inactive and archived). I used _Wordpress_ platform, as well as my elementary skills on `html` and `css`.
+Apart from the research works, as a member of _CaFE ITN_,  I had taken on the responsibility of set up and maintenance of the project's website _cafe-project.eu_ (the site now is inactive and archived). I used _Wordpress_ platform, as well as my elementary skills on `html` and `css`.
 I also built the websites for two other similar ITN research projects coordinated by our laboratory, [HAOS ITN](http://haos-itn.eu/) and [IPPAD ITN](http://ippad-itn.eu/) (still active), and the websites of the annual international workshop on cavitation organised by our team in CITY, IICR2016 and [IICR2017](http://iicr2017.net/).
 
 #### Hybridization of experimental and computational flow data
