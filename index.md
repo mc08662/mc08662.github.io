@@ -16,4 +16,4 @@ I am also an open-source software enthusiast.
 
 In this website, you can read more about [my path so far](https://mc08662.github.io/info/) and find out more about [the projects](https://mc08662.github.io/projects/) I was involved in.
 
-You can find me on [ResearchGate](www.researchgate.net/profile/Evangelos-Stavropoulos-Vasilakis) or follow my publications on [Google Scholar](https://scholar.google.com/citations?user=pOK57zYAAAAJ&hl=en).
+You can find me on [ResearchGate](https://www.researchgate.net/profile/Evangelos-Stavropoulos-Vasilakis) or follow my publications on [Google Scholar](https://scholar.google.com/citations?user=pOK57zYAAAAJ&hl=en).
