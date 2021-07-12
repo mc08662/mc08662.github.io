@@ -44,13 +44,13 @@ The work throughout the PhD studentship resulted in few conference participation
 
 **Contributions in Books**
 
-- Koukouvinis P., Gavaises M., Stavropoulos-Vasilakis E., Kyriazis N. and Jadidbonab H., 2021, _Review of Numerical Methodologies for Modeling Cavitation_, In: Cavitation and Bubble Dynamics: Fundamentals and Applications, 1<sup>st</sup> edition, Elsevier
+- Koukouvinis P., Gavaises M., Stavropoulos-Vasilakis E., Kyriazis N. and Jadidbonab H., 2021, _Review of Numerical Methodologies for Modeling Cavitation_, In: [Cavitation and Bubble Dynamics: Fundamentals and Applications](https://www.elsevier.com/books/cavitation-and-bubble-dynamics/koukouvinis/978-0-12-823388-7), 1<sup>st</sup> edition, Elsevier
 
 **Peer-Reviewed Journal Publications**
 
-- Li Q., Stavropoulos-Vasilakis E., Koukouvinis P., Gavaises M. and Bruecker H. C., 2021, _Micro-pillar sensor based wall-shear mapping in pulsating flows: In-Situ calibration and measurements in an aortic heart-valve tester_, Journal of Fluids and Structures, Elsevier
-
 - Stavropoulos-Vasilakis E., Rodriguez C., Malgarinos I., Kyriazis N., Koukouvinis P. and Gavaises M., 2021, [_A direct forcing Immersed Boundary Method for Cavitating Flows_](https://doi.org/10.1002/fld.5026), International Journal for Numerical Methods in Fluids, Wiley
+
+- Li Q., Stavropoulos-Vasilakis E., Koukouvinis P., Gavaises M. and Bruecker H. C., 2021, [_Micro-pillar sensor based wall-shear mapping in pulsating flows: In-Situ calibration and measurements in an aortic heart-valve tester_](https://doi.org/10.1016/j.jfluidstructs.2021.103346), Journal of Fluids and Structures, Elsevier
 
 - Stavropoulos-Vasilakis E., Kyriazis N., Koukouvinis P., Farhat M. and Gavaises M., 2019, [_Cavitation induction by projectile impacting on a water jet_](https://doi.org/10.1016/j.ijmultiphaseflow.2019.03.001), International Journal of Multiphase Flow, Elsevier, 114, pp.128-139
 
