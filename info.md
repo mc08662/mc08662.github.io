@@ -29,7 +29,9 @@ My diploma thesis was a study of a truss structure for a deformable wind turbine
 ## Professional Career
 ### Work Experience
 
-I am currently positioned as a post-doctoral researcher in CEA - The Alternative Energies and Atomic Energy Commission of France. I work in a interdepartmental research project that focuses on the extension and enhancement of a Lattice Boltzmann Method, emphasising on optimum portability of the algorithm on multiple architectures and targeting multiphase and porous media flows applications.
+I am currently employed by Safran Aircraft Engines, as a Aerodynamics Methods and Research Engineer.
+
+From February 2021 to January 2023, I worked as a post-doctoral researcher in CEA - The Alternative Energies and Atomic Energy Commission of France. I worked in a interdepartmental research project that was focused on the extension and enhancement of a Lattice Boltzmann Method with Adaptive Mesh technique, emphasising on optimum portability of the algorithm on multiple architectures and targeting multiphase and porous media flows applications.
 
 From October 2015 to October 2018, I was employed by CITY, University of London, as a Research Fellow in framework of [CaFE ITN project](https://cordis.europa.eu/project/id/642536). _CaFE_ was an interdisciplinary project that investigated cavitation erosion. The work done then was part of my PhD and regarded mainly code development on [OpenFOAM](https://github.com/OpenFOAM/OpenFOAM-2.4.x).
 
@@ -63,6 +65,10 @@ The work throughout the PhD studentship resulted in few conference participation
 ### Workshops & Conferences
 
 Throughout my PhD studentship, I have attended or participated in few workshops and conferences:
+
+- 75<sup>th</sup> Annual Meeting of American Physical Society’s Division of Fluid Dynamics _APS DFD 2022_, Indianapolis, Indiana USA
+
+- 18<sup>th</sup> Conference for Mesoscopic Methods in Engineering and Science _ICMMES 2022_, La Rochelle, France
 
 - 6<sup>th</sup> Cavitation Workshop [_IICR 2019_](http://iicr2019.net), International institute for Cavitation Research, CIHEAM, Greece
 

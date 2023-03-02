@@ -9,7 +9,7 @@ The projects I have been involved in regard various fields, topics and applicati
 The problems I have dealt with are numerous and range from high-Mach compressible aeronautical flows, to highly turbulent low-Mach multiphase industrial flows and low-Reynolds incompressible pulsatile biological flows. Moreover, fluid-solid interaction and turbulence treatment, primarily through RANS computations and secondarily through DNS or LES, were also integral parts of my doctoral research at CITY, University of London.
 
 #### Adaptive Mesh Refinement for Lattice Boltzmann Method
-at _CEA_, 2021-2022
+at _CEA_, 2021-2023
 
 Apart from the "conventional" methods to resolve the systems of partial derivatives' equations that describe fluids' flows, namely finite volume, finite elements, finite differences, there exits the Lattice Boltzmann method.
 According to this method, instead of solving the momentum and continuity equations (Navier-Stokes), the statistical Boltzmann equation for the out-of-equilibrium distribution system of fluid "particles" is solved.
