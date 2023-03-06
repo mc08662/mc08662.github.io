@@ -42,7 +42,7 @@ During my studies, I completed an internship at [ONERA](https://www.onera.fr) - 
 ## Work Dissemination
 ### Publications
 
-The work throughout the PhD studentship resulted in few conference participations and journal paper publications.
+My research work has resulted in some conference talks and peer reviewed journal publications.
 
 **Contributions in Books**
 
@@ -56,27 +56,27 @@ The work throughout the PhD studentship resulted in few conference participation
 
 - Stavropoulos-Vasilakis E., Kyriazis N., Koukouvinis P., Farhat M. and Gavaises M., 2019, [_Cavitation induction by projectile impacting on a water jet_](https://doi.org/10.1016/j.ijmultiphaseflow.2019.03.001), International Journal of Multiphase Flow, Elsevier, 114, pp.128-139
 
-**Conferences**
+**Peered-Reviewed Conference Talks**
 
 - Stavropoulos Vasilakis E., Kyriazis N., Koukouvinis P., Farhat M. and Gavaises M., 2018, [_Cavitation Induction by Projectile Impacting on a Water Jet_](http://ebooks.asmedigitalcollection.asme.org/content.aspx?bookid=2565&sectionid=206551373), In Proceedings of the 10<sup>th</sup> International Symposium on Cavitation (CAV2018), ASME Press
 
-- Participated in poster exhibition at IICR 4<sup>rth</sup>, 5<sup>th</sup> and <sup>6th</sup> Cavitation Workshop (_2016_, [2017](http://iicr2017.net/), [2019](http://iicr2019.net/) respectively).
-
 ### Workshops & Conferences
 
-Throughout my PhD studentship, I have attended or participated in few workshops and conferences:
+In addition I have attended or talked in few conferences and workshps.
 
 - 75<sup>th</sup> Annual Meeting of American Physical Society’s Division of Fluid Dynamics _APS DFD 2022_, Indianapolis, Indiana USA
 
 - 18<sup>th</sup> Conference for Mesoscopic Methods in Engineering and Science _ICMMES 2022_, La Rochelle, France
 
-- 6<sup>th</sup> Cavitation Workshop [_IICR 2019_](http://iicr2019.net), International institute for Cavitation Research, CIHEAM, Greece
+- 35<sup>th</sup> seminar on Computational Fluid Dynamics, Jan. 2022, CEA-SMAI/GAMNI, Institut Henri Poincaré, Paris, France
+
+- 6<sup>th</sup> Cavitation Workshop _IICR 2019_, International institute for Cavitation Research, CIHEAM, Greece
 
 - 10<sup>th</sup> International Symposium on Cavitation [_CAV 2018_](https://cav2018.jhu.edu/), Johns Hopkins University, Baltimore, Maryland USA
 
 - [_SIG Drop Dynamics_](https://fluids.ac.uk/sig/DropDynamics), Meeting Dec. 2017, UK Fluids Network EPSRC, Wadham College, University of Oxford
 
-- 5<sup>th</sup> Cavitation Workshop [_IICR 2017_](http://iicr2017.net), International institute for Cavitation Research, CIHEAM, Greece
+- 5<sup>th</sup> Cavitation Workshop _IICR 2017_, International institute for Cavitation Research, CIHEAM, Greece
 
 - PDE Software Frameworks [_PDESoft 2016_](https://warwick.ac.uk/fac/sci/maths/research/events/2015-16/nonsymposium/pde/), Mathematics Institute, Warwick University, United Kingdom
 
