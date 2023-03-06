@@ -64,9 +64,9 @@ My research work has resulted in some conference talks and peer reviewed journal
 
 In addition I have attended or talked in few conferences and workshps.
 
-- 75<sup>th</sup> Annual Meeting of American Physical Society’s Division of Fluid Dynamics _APS DFD 2022_, Indianapolis, Indiana USA
+- 75<sup>th</sup> Annual Meeting of American Physical Society’s Division of Fluid Dynamics [_APS DFD 2022_](https://www.apsdfd2022.org/), Indianapolis, Indiana USA
 
-- 18<sup>th</sup> Conference for Mesoscopic Methods in Engineering and Science _ICMMES 2022_, La Rochelle, France
+- 18<sup>th</sup> Conference for Mesoscopic Methods in Engineering and Science [_ICMMES 2022_](https://www.icmmes.org/icmmes2022/), La Rochelle, France
 
 - 35<sup>th</sup> seminar on Computational Fluid Dynamics, Jan. 2022, CEA-SMAI/GAMNI, Institut Henri Poincaré, Paris, France
 
